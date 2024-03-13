@@ -23,7 +23,7 @@
     - 〆 Looking to collaborate on **Open source contributions**
     <br>
     <br>
-    - 💬 Ask me about **react, vue, Solidity**
+    - 💬 Ask me about **react, vue, Solidity, electronic**
 </h4>
 
 <h3 align="left">🛠️ Web Tech Stack :</h3>
